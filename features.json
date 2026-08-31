@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "featureName": "Dàn bản vẽ tuyến và trắc dọc",
+      "featureName": "Dàn bản vẽ giao thông, thoát nước",
       "commandName": "V_DANBANVETUYEN",
       "information": "Tự động tạo Layout, Frame và Viewport.",
       "videoUrl": "https://youtu.be/dUGkLhV0PEs",
@@ -22,16 +22,16 @@
       "id": 3,
       "featureName": "Điều chỉnh mái taluy",
       "commandName": "V_TALUYSECTION",
-      "information": "Chỉnh mái dốc trực tiếp theo từng trắc ngang.",
+      "information": "Xem trên tab: Trắc ngang / Chỉnh sửa mái dốc Taluy ",
       "videoUrl": "https://youtu.be/LS5afxcsdco",
       "isVisible": true
     },
     {
       "id": 4,
-      "featureName": "Dàn bản vẽ thoát nước",
-      "commandName": "V_DANBANVETHOATNUOC",
-      "information": "Tự động bố trí mặt bằng và trắc dọc thoát nước.",
-      "videoUrl": "",
+      "featureName": "Bổ sung đánh thứ tự đỉnh P",
+      "commandName": "V_DLTC",
+      "information": "Cập nhật đánh số thứ tự đỉnh đường cong theo thứ tự bao gồm cả đường cong không có yếu tố cong",
+      "videoUrl": "https://v3tools.com.vn/Support",
       "isVisible": true
     }
   ]
