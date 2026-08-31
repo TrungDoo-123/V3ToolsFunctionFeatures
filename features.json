@@ -30,7 +30,7 @@
       "id": 4,
       "featureName": "Bổ sung đánh thứ tự đỉnh P",
       "commandName": "V_DLTC",
-      "information": "Cập nhật đánh số thứ tự đỉnh đường cong theo thứ tự bao gồm cả đường cong không có yếu tố cong",
+      "information": "Cập nhật đánh số thứ tự đỉnh đường cong theo thứ tự bao gồm cả đường cong không có yếu tố cong, chỉ có phiên bản 2027",
       "videoUrl": "https://v3tools.com.vn/Support",
       "isVisible": true
     }
