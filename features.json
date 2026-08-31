@@ -1,0 +1,38 @@
+{
+  "version": 39,
+  "updatedAt": "2026-08-31",
+  "features": [
+    {
+      "id": 1,
+      "featureName": "In bản vẽ hàng loạt",
+      "commandName": "V_BATCHPLOT",
+      "information": "Xuất nhiều Layout và bản vẽ sang PDF.",
+      "videoUrl": "https://youtu.be/7S2mRMkX664",
+      "isVisible": true
+    },
+    {
+      "id": 2,
+      "featureName": "Dàn bản vẽ tuyến và trắc dọc",
+      "commandName": "V_DANBANVETUYEN",
+      "information": "Tự động tạo Layout, Frame và Viewport.",
+      "videoUrl": "https://youtu.be/dUGkLhV0PEs",
+      "isVisible": true
+    },
+    {
+      "id": 3,
+      "featureName": "Điều chỉnh mái taluy",
+      "commandName": "V_TALUYSECTION",
+      "information": "Chỉnh mái dốc trực tiếp theo từng trắc ngang.",
+      "videoUrl": "https://youtu.be/LS5afxcsdco",
+      "isVisible": true
+    },
+    {
+      "id": 4,
+      "featureName": "Dàn bản vẽ thoát nước",
+      "commandName": "V_DANBANVETHOATNUOC",
+      "information": "Tự động bố trí mặt bằng và trắc dọc thoát nước.",
+      "videoUrl": "",
+      "isVisible": true
+    }
+  ]
+}
