@@ -1,37 +1,61 @@
 {
-  "version": 39,
-  "updatedAt": "2026-08-31",
+  "version": 40,
+  "updatedAt": "2026-09-09",
   "features": [
     {
       "id": 1,
-      "featureName": "In bản vẽ hàng loạt",
-      "commandName": "V_BATCHPLOT",
-      "information": "Xuất nhiều Layout và bản vẽ sang PDF.",
-      "videoUrl": "https://youtu.be/7S2mRMkX664",
+      "featureName": "Quay siêu cao cho tim tuyến",
+      "commandName": "V_SIEUCAOALIGNMENT",
+      "information": "V3-Thiết kế/Tuyến/Quay siêu cao cho tuyến",
+      "videoUrl": "https://youtu.be/qiJmtDziLWg?si=m5HQjuePsRIHjNSk",
       "isVisible": true
     },
     {
       "id": 2,
-      "featureName": "Dàn bản vẽ giao thông, thoát nước",
-      "commandName": "V_DANBANVETUYEN",
-      "information": "Tự động tạo Layout, Frame và Viewport.",
-      "videoUrl": "https://youtu.be/dUGkLhV0PEs",
+      "featureName": "Thiết kế Mở rộng làn",
+      "commandName": "V_MORONGLAN",
+      "information": "V3-Thiết kế/Tuyến/Thiết kế mở rộng làn cho tuyến",
+      "videoUrl": "https://youtu.be/ZEp4MZoklyU",
       "isVisible": true
     },
     {
       "id": 3,
-      "featureName": "Điều chỉnh mái taluy",
-      "commandName": "V_TALUYSECTION",
-      "information": "Xem trên tab: Trắc ngang / Chỉnh sửa mái dốc Taluy ",
-      "videoUrl": "https://youtu.be/LS5afxcsdco",
+      "featureName": "Tạo đường Profile trên trắc dọc thoát nước",
+      "commandName": "V_TAOPROFILECONG",
+      "information": "V3-Thiết kế/Thoát nước/Tạo đường Profile trên trắc dọc thoát nước ",
+      "videoUrl": "https://youtu.be/0yeSgEgBS9E",
       "isVisible": true
     },
     {
       "id": 4,
-      "featureName": "Bổ sung đánh thứ tự đỉnh P",
-      "commandName": "V_DLTC",
-      "information": "Cập nhật đánh số thứ tự đỉnh đường cong theo thứ tự bao gồm cả đường cong không có yếu tố cong, chỉ có phiên bản 2027",
-      "videoUrl": "https://v3tools.com.vn/Support",
+      "featureName": "Chỉnh sửa độ dốc-chiều dày-bề rộng trắc ngang",
+      "commandName": "V_KETCAUSECTION",
+      "information": "V3-Thiết kế/Trắc ngang/Chỉnh sửa độ dốc-chiều dày-bề rộng trắc ngang",
+      "videoUrl": "https://youtu.be/nxyxs5yg4Sk",
+      "isVisible": true
+    },
+    {
+      "id": 5,
+      "featureName": "Bổ sung chức năng chọn tim tuyến trong chức năng lấy khối lượng trắc ngang",
+      "commandName": "V_KLTN",
+      "information": "V3-Thiết kế/Trắc ngang/Lấy khối lượng trắc ngang",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+    },
+    {
+      "id": 6,
+      "featureName": "Chỉnh sửa lấy khối lượng dạng Shape trong chức năng lấy khối lượng trắc ngang",
+      "commandName": "V_KLTN",
+      "information": "V3-Thiết kế/Trắc ngang/Lấy khối lượng trắc ngang",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+    },
+    {
+      "id": 7,
+      "featureName": "Fix lỗi không xóa được ký hiệu () đối với một số cọc",
+      "commandName": "T_XoaKhoangTrangCivil3D",
+      "information": "V3-Thiết kế/Tuyến/xóa khoảng trắng ()",
+      "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     }
   ]
