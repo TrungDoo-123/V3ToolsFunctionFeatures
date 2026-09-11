@@ -57,6 +57,14 @@
       "information": "V3-Thiết kế/Tuyến/xóa khoảng trắng ()",
       "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
+    },
+    {
+      "id": 8,
+      "featureName": "Fix lỗi không đọc được file NTD",
+      "commandName": "V_NTD2",
+      "information": "V3-Khảo sát/Dữ liệu .NTD/Chuyển đổi dữ liệu NTD vào trong Civil3D",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
     }
   ]
 }
