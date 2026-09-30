@@ -1,68 +1,108 @@
 {
-  "version": 40,
-  "updatedAt": "2026-09-09",
+  "version": 41,
+  "updatedAt": "2026-09-30",
   "features": [
     {
       "id": 1,
-      "featureName": "Quay siêu cao cho tim tuyến",
-      "commandName": "V_SIEUCAOALIGNMENT",
-      "information": "V3-Thiết kế/Tuyến/Quay siêu cao cho tuyến",
-      "videoUrl": "https://youtu.be/qiJmtDziLWg?si=m5HQjuePsRIHjNSk",
+      "featureName": "Tạo đường bao quanh chân taluy xử lý bề mặt bị tràn ra ngoài",
+      "commandName": "V_FIXCORRIDORSURFACE",
+      "information": "Tạo đường bao quanh chân taluy xử lý bề mặt bị tràn",
+      "videoUrl": "https://www.youtube.com/watch?v=kVkQWNVdSlA&t=2s",
       "isVisible": true
     },
     {
       "id": 2,
-      "featureName": "Thiết kế Mở rộng làn",
-      "commandName": "V_MORONGLAN",
-      "information": "V3-Thiết kế/Tuyến/Thiết kế mở rộng làn cho tuyến",
-      "videoUrl": "https://youtu.be/ZEp4MZoklyU",
+      "featureName": "Thêm nhanh Datasource lên trắc ngang",
+      "commandName": "V_TSTN",
+      "information": "V3-Thiết kế/Dữ liệu NTD/Xuất dữ liệu NTD",
+      "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     },
     {
       "id": 3,
-      "featureName": "Tạo đường Profile trên trắc dọc thoát nước",
-      "commandName": "V_TAOPROFILECONG",
+      "featureName": "Fix tính năng xuất NTD",
+      "commandName": "V_NTDEX",
       "information": "V3-Thiết kế/Thoát nước/Tạo đường Profile trên trắc dọc thoát nước ",
-      "videoUrl": "https://youtu.be/0yeSgEgBS9E",
+      "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     },
     {
       "id": 4,
-      "featureName": "Chỉnh sửa độ dốc-chiều dày-bề rộng trắc ngang",
-      "commandName": "V_KETCAUSECTION",
-      "information": "V3-Thiết kế/Trắc ngang/Chỉnh sửa độ dốc-chiều dày-bề rộng trắc ngang",
-      "videoUrl": "https://youtu.be/nxyxs5yg4Sk",
+      "featureName": "Xuất trắc dọc từ nhiều tuyến",
+      "commandName": "V_XNTD",
+      "information": "V3-Thiết kế/Trắc dọc/Xuất trắc dọc từ nhiều tuyến",
+      "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     },
     {
       "id": 5,
-      "featureName": "Bổ sung chức năng chọn tim tuyến trong chức năng lấy khối lượng trắc ngang",
-      "commandName": "V_KLTN",
-      "information": "V3-Thiết kế/Trắc ngang/Lấy khối lượng trắc ngang",
+      "featureName": "Cập nhập bản Bandset hàng loạt cho trắc dọc",
+      "commandName": "V_CNBS",
+      "information": "V3-Thiết kế/Trắc dọc/Cập nhập bản Bandset hàng loạt cho trắc dọc",
       "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     },
     {
       "id": 6,
-      "featureName": "Chỉnh sửa lấy khối lượng dạng Shape trong chức năng lấy khối lượng trắc ngang",
-      "commandName": "V_KLTN",
-      "information": "V3-Thiết kế/Trắc ngang/Lấy khối lượng trắc ngang",
+      "featureName": "Điền đáy rãnh lên trắc dọc",
+      "commandName": "V_RANHTRACDOC",
+      "information": "V3-Thiết kế/Trắc dọc/Điền đáy rãnh lên trắc dọc",
       "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     },
     {
       "id": 7,
-      "featureName": "Fix lỗi không xóa được ký hiệu () đối với một số cọc",
-      "commandName": "T_XoaKhoangTrangCivil3D",
-      "information": "V3-Thiết kế/Tuyến/xóa khoảng trắng ()",
+      "featureName": "Xuất trắc ngang hàng loạt",
+      "commandName": "V_XTN",
+      "information": "V3-Thiết kế/Trắc ngang/Xuất trắc ngang hàng loạt",
       "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     },
     {
       "id": 8,
-      "featureName": "Fix lỗi không đọc được file NTD",
+      "featureName": "Chỉnh sửa trắc ngang tự nhiên",
       "commandName": "V_NTD2",
-      "information": "V3-Khảo sát/Dữ liệu .NTD/Chuyển đổi dữ liệu NTD vào trong Civil3D",
+      "information": "V3-Khảo sát/Trắc ngang/Chỉnh sửa trắc ngang tự nhiên",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+    },
+    {
+      "id": 9,
+      "featureName": "Đánh cấp - Vét bùn",
+      "commandName": "V_DCVB",
+      "information": "V3-Khảo sát/Trắc ngang/Đánh cấp - Vét bùn",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+    },
+    {
+      "id": 10,
+      "featureName": "Thay đổi lựa chọn Band hàng loạt",
+      "commandName": "V_THAYDOIBANDSET",
+      "information": "V3-Khảo sát/Trắc ngang/Thay đổi lựa chọn Band hàng loạt",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+      },
+    {
+      "id": 11,
+      "featureName": "Tạo bề mặt đánh cấp - vét bùn - phui cống",
+      "commandName": "V_BMDCVB",
+      "information": "V3-Khảo sát/Trắc ngang/Tạo bề mặt đánh cấp - vét bùn - phui cống",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+    },
+    {
+      "id": 12,
+      "featureName": "Bảng yếu tố cong",
+      "commandName": "V_BANGYTC",
+      "information": "V3-Khảo sát/Thống kê/Bảng yếu tố cong",
+      "videoUrl": "https://v3tools.com.vn/",
+      "isVisible": true
+    },
+    {
+      "id": 13,
+      "featureName": "Tạo đường địa chất lên trắc ngang",
+      "commandName": "V_TAODUONGDIACHAT",
+      "information": "V3-Khảo sát/Trắc ngang/Tạo đường địa chất lên trắc ngang",
       "videoUrl": "https://v3tools.com.vn/",
       "isVisible": true
     }
